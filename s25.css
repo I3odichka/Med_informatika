@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(20, 126, 120);
+    
+    color:white ;
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    text-align: center;
+    background-color: gainsboro;
+}
+h1 {
+    color: white;
+ font-size: 68px;
+}
+
+h3 {
+    color: white;
+    font-size: 48px;
+}
+h4 {
+    color: white;
+    font-size: 38px;
+}
+p {
+    text-align: justify;
+    text-indent: 8ch;
+}
+.container{
+    position: relative;
+    text-align:center ;
+    color: rgb(19, 26, 32);
+}
+.bottom-left{
+    position: absolute;
+    bottom: 120px;
+    left: 16px;
+}
+
